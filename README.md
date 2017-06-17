@@ -8,4 +8,5 @@ Elasticstack will be constructed by Jupyter Notebook
  passwd root
 ## (2) prepare of installation
  yum install -y https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+ 
  yum update
