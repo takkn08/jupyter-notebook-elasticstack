@@ -40,10 +40,15 @@ Elasticstack will be constructed by Jupyter Notebook
  ipython
  
 In [1]: from notebook.auth import passwd
+
 In [2]: passwd()
+
 Enter password: 
+
 Verify password: 
+
 Out[2]: ‘sha1:(password)'
+
 In [3]: exit
 
 ## (7) start jupyter notebook
